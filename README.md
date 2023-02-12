@@ -1,3 +1,3 @@
 # js-basics
 
-Getting started with Jvascript
+Getting started with Javascript
